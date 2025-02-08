@@ -137,5 +137,3 @@ For any questions or further customizations, please feel free to contact me.
 *Happy Scraping & Data Harvesting!*
 ```
 
----
-
