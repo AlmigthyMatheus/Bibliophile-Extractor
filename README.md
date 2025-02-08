@@ -129,6 +129,9 @@ For any questions or further customizations, please feel free to contact me.
 ### Log Results
 ![Log Screenshot](images/log_results.png)
 
+### Excel Results
+![Excel Screenshot](images/planilha.png)
+
 ---
 
 *Happy Scraping & Data Harvesting!*
